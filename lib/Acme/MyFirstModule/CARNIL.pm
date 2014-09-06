@@ -4,7 +4,7 @@ use 5.006;
 use strict;
 use warnings FATAL => 'all';
 
-print "Hello World!\n"
+print "Hello World!\n";
 
 =head1 NAME
 
@@ -12,11 +12,11 @@ Acme::MyFirstModule::CARNIL - The great new Acme::MyFirstModule::CARNIL!
 
 =head1 VERSION
 
-Version 0.02
+Version 0.03
 
 =cut
 
-our $VERSION = '0.02';
+our $VERSION = '0.03';
 
 
 =head1 SYNOPSIS
